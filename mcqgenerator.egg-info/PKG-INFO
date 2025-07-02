@@ -7,6 +7,7 @@ Requires-Dist: python-dotenv
 Requires-Dist: streamlit
 Requires-Dist: langchain
 Requires-Dist: langchain-openai
+Requires-Dist: langchain-community
 Requires-Dist: langchain-groq
 Requires-Dist: PyPDF
 Dynamic: author
